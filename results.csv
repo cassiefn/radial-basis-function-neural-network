@@ -1,0 +1,6 @@
+,dataset,isClassification,hiddenLayers,method,accuracy,precision,recall,RMSE
+0,segmentation,True,1,RBF_enn_,0.6603773583176524,0.6603773578853684,0.24475524511223046,0
+1,segmentation,True,1,RBF_kmeans_,0.5660377357778569,0.5660377355998576,0.17857142895408165,0
+2,segmentation,True,1,RBF_pam_,0.6415094338096934,0.6415094334282663,0.22972973009495984,0
+3,forestfires,False,1,RBF_kmeans_,0.0,0.0,0.0,0.10363328504466056
+4,forestfires,False,1,RBF_pam_,0.0,0.0,0.0,0.10220978551087395

@@ -1,0 +1,3 @@
+,dataset,isClassification,k,method,accuracy,precision,recall,RMSE
+0,winequality-red,False,3,Kmeans,0,0,0,0.8051914886120773
+1,winequality-red,False,3,PAM,0,0,0,0.7952986860293433
